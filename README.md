@@ -7,9 +7,5 @@ conda create --name TAL_Labo2 python=3.7
 conda activate TAL_Labo2
 pip install -r requirements.txt
 jupyter notebook
-
-
-
-pip freeze > requirements.txt
 ```
 
